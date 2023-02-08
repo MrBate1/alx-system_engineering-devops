@@ -1,6 +1,8 @@
-#Shell basics
-##READ ME
-###this repository contains executble files that does the following
+#Shell basics#
+
+##READ ME##
+
+###this repository contains executble files that does the following###
 
 *showing the current working directory
 
